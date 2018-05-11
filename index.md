@@ -22,4 +22,4 @@ Before you share your data, make sure of the following:
 
 You can find a very complete tutorial series on how to prepare your training data sets as well. Follow the "Machine Translation for All" Tutorial series. 
 
-Having trouble? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](gcocozza.com) and I'll answer all your questions.
+Having trouble? Check out our [documentation](http://gcocozza.com) or [contact support](gcocozza.com) and I'll answer all your questions.
