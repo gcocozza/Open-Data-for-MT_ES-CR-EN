@@ -4,7 +4,7 @@ The goal of this project is to collect and make available as much linguistic res
 
 If you are interested in subjects such as machine translation, deep learning technologies, then you know the importance of having a data bank of this nature for students, researchers and translators. 
 
-### Sharing your data is invaluable, and it is a practice that has widespread in the last years.
+### Sharing your data is invaluable, and it is a practice that has widespread lately.
 ### Sharing your data does not mean that your translations would be reduplicated.
 ### Translators would benefit the most out of this data banks as they can quiclky train an engine and customize it.
 ### The same applies for researchers. Researchers could benefit from this data bank and draw conclusions faster if they don't have to get into the pre-production phase of crawling techniques and data preparation.
