@@ -22,4 +22,4 @@ Ready-to-use data sets means more resources, faster development.
 
 You can find a very complete tutorial series on how to prepare your training data sets as well. Follow the "Machine Translation for All" Tutorial series.
 
-Having trouble? Check out our documentation or contact support and I'll answer all your questions.
+Having trouble? Contact me through gcocozza.com and I'll answer all your questions.
