@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+## Welcome to an Open-Data Project
 
-You can use the [editor on GitHub](https://github.com/gcocozza/Open-Data-ES-CR-EN-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+The goal of this project is to collect and make available as much linguistic resources as possible in the combination of ES-CR>EN. Other language combinations are welcome as well. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+If you are interested in subjects such as machine translation, deep learning technologies, then you know the importance of having a data bank of this nature for students, researchers and translators. 
 
-### Markdown
+### Sharing your data is invaluable, and it is a practice that has widespread in the last years.
+### Sharing your data does not mean that your translations would be reduplicated.
+### Translators would benefit the most out of this data banks as they can quiclky train an engine and customize it.
+### The same applies for researchers. Researchers could benefit from this data bank and draw conclusions faster if they don't have to get into the pre-production phase of crawling techniques and data preparation.
+### Ready-to-use data sets means more resources, faster development. 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Before you share your data, make sure of the following: 
 
-```markdown
-Syntax highlighted code block
+	Are your files saved in UTF-8 with Unix line breaks?
+	Are your TMX files using the correct source and target language combination? 
+	Did you open your recently aligned translation memories to check for any tags or codes that could pollute the training datasets?
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/gcocozza/Open-Data-ES-CR-EN-/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+You can find a very complete tutorial series on how to prepare your training data sets as well. Follow the "Machine Translation for All" Tutorial series. 
+
+Having trouble? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](gcocozza.com) and I'll answer all your questions.
