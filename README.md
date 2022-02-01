@@ -22,4 +22,4 @@ Ready-to-use datasets means more resources, faster development. You may see the 
 
 You can find a very complete tutorial series on how to prepare your training datasets as well. Follow the "Machine Translation for Everyone" video tutorial series or follow the link https://www.qabiria.com/es/blog/item/631-mt-for-everyone-aprende-a-personalizar-tus-motores-de-traduccion-automatica
 
-Do you have any technical issues or questions for me? Contact me at my website gcocozza.com, and I'll answer all your questions.
+Do you have any technical issues or questions for me? Contact me at my website www.gcocozza.com, and I'll answer all your questions.
