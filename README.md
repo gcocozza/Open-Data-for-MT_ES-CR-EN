@@ -1,6 +1,6 @@
 ***Welcome to an Open-Data Project
 
-The goal of this project is to collect and make available as much linguistic resources as possible in the combination of ES-CR>EN. Other language combinations are welcome as well.
+The goal of this project is to collect and make available as much linguistic resources as possible in the combination of es-CR > en. Other language combinations are welcome as well.
 
 If you are interested in subjects such as machine translation, deep learning technologies, then you know the importance of having a data bank of this nature for students, researchers and translators.
 
@@ -22,4 +22,4 @@ Ready-to-use datasets means more resources, faster development. You may see the 
 
 You can find a very complete tutorial series on how to prepare your training datasets as well. Follow the "Machine Translation for Everyone" video tutorial series or follow the link https://www.qabiria.com/es/blog/item/631-mt-for-everyone-aprende-a-personalizar-tus-motores-de-traduccion-automatica
 
-Do you have any technical issues or questions for me? Contact me at my website gcocozza.github.io, and I'll answer all your questions.
+Do you have any technical issues or questions for me? Contact me at my website gcocozza.com, and I'll answer all your questions.
